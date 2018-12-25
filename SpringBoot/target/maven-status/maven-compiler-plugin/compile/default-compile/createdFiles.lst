@@ -1,0 +1,4 @@
+com\baidu\test\config\MybatisConfig.class
+com\baidu\test\SpringBootMain.class
+com\baidu\test\entity\User.class
+com\baidu\test\mapper\UserMapper.class
