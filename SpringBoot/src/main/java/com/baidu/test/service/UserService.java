@@ -16,7 +16,7 @@ public class UserService {
 	private UserMapper mapper;
 	
 	public List<User> findAll(){
-		System.out.println("²âÊÔ+++++");
+		System.out.println("²âÊÔÖĞÎÄ+++++");
 		return mapper.findAll();
 	}
 	
