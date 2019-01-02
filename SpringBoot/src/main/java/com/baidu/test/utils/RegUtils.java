@@ -146,6 +146,7 @@ public class RegUtils {
    */
   public static String nulltoStr(String str) {
     return StrisNull(str)?"":str; 
+    
   }   
   /** 
    * 字符串null赋值默认值 
